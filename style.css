@@ -24,7 +24,7 @@
   background-color: white;
   color: white;
   font-family: monospace;
-  touch-action: pinch-zoom;
+  touch-action: manipulation;
   user-select: none;
 }
 .player button {
